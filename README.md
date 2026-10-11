@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Hi 👋! My name Erlis and I'm CS student, from Albania.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name Erlis and I'm CS student, from Albania.</h2>
 
 ```text
 ▓▓▓▓▓ ▓▓▓▓  ▓     ▓▓▓  ▓▓▓▓  ▓▓▓  ▓▓▓▓▓   ▓     ▓     
@@ -9,6 +9,8 @@
  ░░░░░ ░░  ░ ░░░░░ ░░░ ░░░░ ░ ░░░ ░ ░ ░   ░░░   ░░░   
   ░░░░░ ░   ░ ░░░░░ ░░░ ░░░░   ░░░   ░     ░░░   ░░░  
 ```
+
+---
 
 <h3>Some of the language I use are:</h3>
 
@@ -24,7 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
+---
+
 <h3>My socials can be found below.</h3>
 
 <div data-importer="socials" align="left">
